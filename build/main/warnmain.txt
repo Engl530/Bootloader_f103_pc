@@ -1,0 +1,31 @@
+missing module named 'multiprocessing.forking' - imported by C:\PyScripts\BootLoader_v1\venv\Lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named posix - imported by os, shutil, importlib._bootstrap_external, C:\PyScripts\BootLoader_v1\main.py
+missing module named _posixsubprocess - imported by multiprocessing.util, subprocess, C:\PyScripts\BootLoader_v1\main.py
+missing module named org - imported by copy, C:\PyScripts\BootLoader_v1\main.py
+missing module named 'org.python' - imported by pickle, C:\PyScripts\BootLoader_v1\main.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\PyScripts\BootLoader_v1\main.py
+missing module named asyncio.DefaultEventLoopPolicy - imported by asyncio, asyncio.events, C:\PyScripts\BootLoader_v1\main.py
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection, C:\PyScripts\BootLoader_v1\main.py
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection, C:\PyScripts\BootLoader_v1\main.py
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool, C:\PyScripts\BootLoader_v1\main.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes, C:\PyScripts\BootLoader_v1\main.py
+missing module named _winreg - imported by platform, C:\PyScripts\BootLoader_v1\main.py
+missing module named java - imported by platform, C:\PyScripts\BootLoader_v1\main.py
+missing module named 'java.lang' - imported by platform, C:\PyScripts\BootLoader_v1\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\PyScripts\BootLoader_v1\main.py
+missing module named termios - imported by tty, getpass, serial.serialposix, C:\PyScripts\BootLoader_v1\main.py
+missing module named _scproxy - imported by urllib.request, C:\PyScripts\BootLoader_v1\main.py
+missing module named resource - imported by posix, test.support, C:\PyScripts\BootLoader_v1\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, zipimport, C:\PyScripts\BootLoader_v1\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, zipimport, C:\PyScripts\BootLoader_v1\main.py
+missing module named pep517 - imported by importlib.metadata, C:\PyScripts\BootLoader_v1\main.py
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn, C:\PyScripts\BootLoader_v1\main.py
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn, C:\PyScripts\BootLoader_v1\main.py
+missing module named _posixshmem - imported by multiprocessing.resource_tracker, multiprocessing.shared_memory, C:\PyScripts\BootLoader_v1\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, pathlib, http.server, webbrowser, netrc, getpass, distutils.util, subprocess, C:\PyScripts\BootLoader_v1\main.py
+missing module named grp - imported by shutil, tarfile, pathlib, subprocess, C:\PyScripts\BootLoader_v1\main.py
+missing module named fcntl - imported by serial.serialposix
+missing module named 'System.IO' - imported by serial.serialcli
+missing module named System - imported by serial.serialcli
+missing module named Carbon - imported by wx.lib.colourutils
+missing module named StringIO - imported by six
